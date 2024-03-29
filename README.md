@@ -1,6 +1,8 @@
 ## Available Scripts (FastAPI)
 
-In the project root directory, you can run:
+### `pip install pymongo`
+
+finish install missing dependency
 
 ### `uvicorn main:app --reload`
 
